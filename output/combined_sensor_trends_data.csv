@@ -1,0 +1,2 @@
+"sensor","n_pixels","mean_slope","median_slope","sd_slope","min_slope","max_slope","significant_pixels","significant_percent"
+"VIIRS",3698,-0.00274791447180958,-0.00278186711107755,0.00428653416091805,-0.0231997653453625,0.0180043814415748,820,22.1741481882098

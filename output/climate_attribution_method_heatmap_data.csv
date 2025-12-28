@@ -1,0 +1,13 @@
+"method","variable","normalized_importance","raw_importance"
+"GAM","mean_radiation",0.854946125229315,3.35754445076484
+"Random Forest","mean_radiation",1,77.1169649394524
+"Regression","mean_radiation",1,0.515599220046968
+"GAM","mean_temp",0,1.00000022521237
+"Random Forest","mean_temp",0.253518624250855,26.5749151470369
+"Regression","mean_temp",0.046342867243727,0.0578438043485072
+"GAM","total_precip",1,3.75753564876917
+"Random Forest","total_precip",0,9.40991767160452
+"Regression","total_precip",0.102430397803677,0.0847658185453347
+"GAM","total_snowfall",0.132815413171646,1.36624343182751
+"Random Forest","total_snowfall",0.0846100198987963,15.1386122882259
+"Regression","total_snowfall",0,0.0355992284614704

@@ -1,0 +1,9 @@
+"sensor","method","variable","importance","coefficient"
+"VIIRS","Regression","mean_temp",0.0376111892480362,-0.446356700129105
+"VIIRS","Regression","total_precip",0.0569934889579051,-0.11840218481131
+"VIIRS","Regression","total_snowfall",0.028375041189108,-0.0487593447505828
+"VIIRS","Regression","mean_radiation",0.243972285667338,-0.552521529995731
+"VIIRS","Regression","total_pdd",0.0232874111247323,-0.0871410440762841
+"VIIRS","Regression","season_sin",0.0887176503958032,9.33525285306068e-05
+"VIIRS","Regression","season_cos",0.288001853339182,1.40851881366879
+"VIIRS","Regression","time_trend",0.00158426432808692,-0.0247666464480566

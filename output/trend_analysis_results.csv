@@ -1,0 +1,2 @@
+"sensor","ols_slope_per_decade","ols_ci_lower","ols_ci_upper","ols_r_squared","ols_p_value","mk_tau","mk_p_value","n_years","max_autocorrelation"
+"VIIRS",-0.0154743144000693,-0.0399593068186871,0.00901067801854853,0.149587136717168,0.191719064767963,-0.307692348957062,0.160555884242058,13,0.499331960405398

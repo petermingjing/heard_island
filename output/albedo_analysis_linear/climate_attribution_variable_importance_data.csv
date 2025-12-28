@@ -1,0 +1,25 @@
+"sensor","method","variable","importance","coefficient"
+"VIIRS","Regression","mean_temp",0.0376111892480362,-0.446356700129105
+"VIIRS","Regression","total_precip",0.0569934889579051,-0.11840218481131
+"VIIRS","Regression","total_snowfall",0.028375041189108,-0.0487593447505828
+"VIIRS","Regression","mean_radiation",0.243972285667338,-0.552521529995731
+"VIIRS","Regression","total_pdd",0.0232874111247323,-0.0871410440762841
+"VIIRS","Regression","season_sin",0.0887176503958032,9.33525285306068e-05
+"VIIRS","Regression","season_cos",0.288001853339182,1.40851881366879
+"VIIRS","Regression","time_trend",0.00158426432808692,-0.0247666464480566
+"VIIRS","Random Forest","mean_temp",58.6189141242078,NA
+"VIIRS","Random Forest","total_precip",40.2507799672527,NA
+"VIIRS","Random Forest","total_snowfall",46.7486359815115,NA
+"VIIRS","Random Forest","mean_radiation",100,NA
+"VIIRS","Random Forest","total_pdd",46.1438880090026,NA
+"VIIRS","Random Forest","season_sin",63.0628528686005,NA
+"VIIRS","Random Forest","season_cos",70.2151336864032,NA
+"VIIRS","Random Forest","time_trend",0,NA
+"VIIRS","Elastic Net","mean_temp",0.0127269150204754,NA
+"VIIRS","Elastic Net","total_precip",2.25589908178326e-05,NA
+"VIIRS","Elastic Net","total_snowfall",5.28146739667775e-06,NA
+"VIIRS","Elastic Net","mean_radiation",1.65900931994699e-05,NA
+"VIIRS","Elastic Net","total_pdd",9.43230264556167e-05,NA
+"VIIRS","Elastic Net","season_sin",0.00124628466274908,NA
+"VIIRS","Elastic Net","season_cos",0.0944001795411449,NA
+"VIIRS","Elastic Net","time_trend",0.000340703749622288,NA

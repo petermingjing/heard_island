@@ -1,0 +1,2 @@
+"sensor","n_obs","mean_albedo","sd_albedo","min_albedo","max_albedo","start_date","end_date","n_label"
+"VIIRS",4466,0.342649297227276,0.062282651775607,0.0370234446526034,0.722984681896633,2012-01-18,2024-05-31,"n = 4466"

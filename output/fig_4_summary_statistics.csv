@@ -1,0 +1,12 @@
+"metric","value","percentage"
+"Total pixels",3698,100
+"Mean slope (per year)",-0.002748,NA
+"Median slope (per year)",-0.002782,NA
+"SD slope (per year)",0.004287,NA
+"Min slope (per year)",-0.0232,NA
+"Max slope (per year)",0.018004,NA
+"Pixels with negative trends",2860,77.3
+"Pixels with positive trends",838,22.7
+"Statistically significant (p < 0.05)",820,22.2
+"Statistically significant negative (p < 0.05)",771,20.8
+"Statistically significant positive (p < 0.05)",49,1.3

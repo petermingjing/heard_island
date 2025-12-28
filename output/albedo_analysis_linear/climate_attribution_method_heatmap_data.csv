@@ -1,0 +1,25 @@
+"method","variable","importance"
+"Elastic Net","mean_radiation",1.65900931994699e-05
+"Elastic Net","mean_temp",0.0127269150204754
+"Elastic Net","season_cos",0.0944001795411449
+"Elastic Net","season_sin",0.00124628466274908
+"Elastic Net","time_trend",0.000340703749622288
+"Elastic Net","total_pdd",9.43230264556167e-05
+"Elastic Net","total_precip",2.25589908178326e-05
+"Elastic Net","total_snowfall",5.28146739667775e-06
+"Random Forest","mean_radiation",100
+"Random Forest","mean_temp",58.6189141242078
+"Random Forest","season_cos",70.2151336864032
+"Random Forest","season_sin",63.0628528686005
+"Random Forest","time_trend",0
+"Random Forest","total_pdd",46.1438880090026
+"Random Forest","total_precip",40.2507799672527
+"Random Forest","total_snowfall",46.7486359815115
+"Regression","mean_radiation",0.243972285667338
+"Regression","mean_temp",0.0376111892480362
+"Regression","season_cos",0.288001853339182
+"Regression","season_sin",0.0887176503958032
+"Regression","time_trend",0.00158426432808692
+"Regression","total_pdd",0.0232874111247323
+"Regression","total_precip",0.0569934889579051
+"Regression","total_snowfall",0.028375041189108

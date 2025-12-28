@@ -1,0 +1,13 @@
+"sensor","method","variable","importance","coefficient"
+"VIIRS","Regression","mean_temp",0.0578438043485072,-0.450789491254878
+"VIIRS","Regression","total_precip",0.0847658185453347,-0.0833469297104326
+"VIIRS","Regression","total_snowfall",0.0355992284614704,-0.0221120397574275
+"VIIRS","Regression","mean_radiation",0.515599220046968,0.833307264959907
+"VIIRS","Random Forest","mean_temp",26.5749151470369,NA
+"VIIRS","Random Forest","total_precip",9.40991767160452,NA
+"VIIRS","Random Forest","total_snowfall",15.1386122882259,NA
+"VIIRS","Random Forest","mean_radiation",77.1169649394524,NA
+"VIIRS","GAM","mean_temp",1.00000022521237,NA
+"VIIRS","GAM","total_precip",3.75753564876917,NA
+"VIIRS","GAM","total_snowfall",1.36624343182751,NA
+"VIIRS","GAM","mean_radiation",3.35754445076484,NA

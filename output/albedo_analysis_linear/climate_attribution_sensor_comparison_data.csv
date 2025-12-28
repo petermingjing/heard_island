@@ -1,0 +1,4 @@
+"sensor","method","total_importance"
+"VIIRS","Elastic Net",0.108852836551861
+"VIIRS","Random Forest",425.040204636978
+"VIIRS","Regression",0.768543184250192
